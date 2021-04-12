@@ -4,7 +4,6 @@ import { StyleSheet, View, Text, ScrollView, Button ,Alert, TouchableOpacity, To
 import CollapsibleView from "@eliav2/react-native-collapsible-view";
 import { Card, CardItem } from "native-base";
 import Icon from 'react-native-vector-icons/MaterialIcons';
-import * as Animatable from 'react-native-animatable';
 import {CheckBox} from "react-native-elements"
 import Colors from "./src/constants/Colors"
 
